@@ -1,0 +1,386 @@
+body{
+    font-family: 'Arial';
+    /* background-color: aquamarine; */
+}
+
+/* **************Navbar*********************** */
+#div_navbar{
+    background-image: url("res/nav_bg.jpg");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+}
+
+#div_navbar .nav-item .nav-link{
+    color: #FFFFFF;
+}
+
+#div_navbar .navbar-brand {
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+#div_navbar .navbar-brand img{
+    width: 30px;
+    height: 30px;
+    margin-bottom: 7px;
+    margin-right: 3px;
+}
+
+#div_navbar .nav-item button{
+    border-radius: 35px;
+}
+
+#navbarSupportedContent{
+    margin-left: 550px;
+}
+
+#navbarSupportedContent .nav-item{
+    margin-left: 50px;
+}
+
+#nav_content{
+    color: #FFFFFF;
+}
+
+#nav_content h3{
+    margin-top: 150px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+#nav_content h1{
+    text-transform: uppercase;
+    font-size: 70px;
+    padding-bottom: 10px;
+}
+
+#nav_content h2{
+    padding-bottom: 50px;
+}
+
+#nav_content button{
+    border-radius: 35px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+/* ************End Navbar********************* */
+
+/* ****************Choose Your Favorite Layout********************** */
+
+#choose_layout h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    color: black;
+}
+
+#choose_layout b{
+    color: black;
+}
+#choose_layout{
+    color: grey;
+    height: 150px;
+}
+
+.carousel-item{
+    height: 70px;
+}
+.carousel-indicators{
+    margin-bottom: 0px;
+}
+
+#choose_layout button{
+    background-color: #15B4EB;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+}
+
+
+/* ****************END Choose Your Favorite Layout********************** */
+
+/* *************************Job Theam**************** */
+.theme-container .col img{
+    height: 140px;
+    width: 140px;
+}
+
+.theme-container .col div{
+    text-align: center;
+    margin: 30px;
+}
+/* *************************END Job Theam**************** */
+
+/* ******************Amazing Compatibility******************** */
+
+
+#Compatibility .row .col h1{
+    text-transform: uppercase;
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+
+#Compatibility .row .col h5{
+    margin-bottom: 120px;
+    color: grey;
+}
+
+#Compatibility .row .col b{
+    color: black;
+}
+#Compatibility{
+    margin-left: 20px;
+}
+
+#icon{
+    height: 50px;
+    width: 50px;
+}
+
+#img1{
+    width: 70%;
+    height: 100%;
+    margin-left: 210px ;
+}
+/* ****************END Amazing Compatibility********************** */
+
+/* *****************Suggestion new features****************************** */
+#Suggestion_new {
+    background-color: #375168;
+}
+
+#Suggestion_new .row h1{
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+#Suggestion_new .row h6{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+#Suggestion_new button {
+    margin-top: 60px;
+    border-radius: 35px;
+    border: none;
+    height: 60px;
+    width: 250px;
+    background-color: #15B4EB;
+}
+/* *****************END Suggestion new features****************************** */
+
+/***************************Theam Fetute list********************************** */
+
+#theame_feture{
+    margin-top: 20px;
+}
+
+
+#theame_feture li{
+    border-radius: 0px;
+}
+
+#check , #paid{
+    height: 20px;
+}
+
+#head_list1{
+    margin-left: 120px;
+    width: 400px;
+    border-left: none;
+    border-top: none;
+}
+
+#head_list2{
+    width: 400px;
+    background-color: #F6FCFA;
+}
+
+#head_list3{
+    width: 400px;
+    border-right: none;
+    border-top: none;
+}
+
+#list1{
+    margin-left: 120px;
+    width: 400px;
+}
+
+#list2{
+    width: 400px;
+    background-color: #F6FCFA;
+    color: #1DAA87;
+}
+
+#list3{
+    width: 400px;
+}
+
+/***************************END Theam Fetute list********************************** */
+
+/***************************layout********************************** */
+#layout_card_group{
+    text-align: center;
+}
+
+#layout_card_group .card{
+    margin: 30px;
+    border: none;
+}
+
+#not_enough{
+    background-color: white;
+    padding: 10px;
+    margin-left: 42%;
+}
+/***********************END layout********************************** */
+
+/* ***********************Comment*********************************** */
+#Comment{
+    margin-left: 10px;
+}
+
+#user_icon{
+    width: 120px;
+    margin-bottom: 0px;
+    border-radius: 50%;
+    border: solid gray 0.5pxpx;
+}
+
+#icon1{
+    margin-left: 10px;
+    width: 10%;
+    border: none;
+    background-color: #F9FAFF;
+    text-align: center;
+}
+
+#comment1{
+    width: 39%;
+    border: none;
+    background-color:  #F9FAFF;
+    color: grey;
+    height: 150px;
+}
+
+#quot{
+    width: 70px;
+}
+
+#comment_username{
+    color: #15B4EB;
+    font-weight: bold
+}
+
+#comment_country{
+    color: grey;
+}
+/* *******************End Comment*********************************** */
+
+/* **************************************facilities************************************* */
+#facilities img{
+    width: 200px;
+    margin-left: 32%;
+}
+
+#facilities .card{
+    border: none;
+    margin-left: 10px;
+    color: grey;
+}
+
+
+#facilities .card-title{
+    color: black;
+    font-weight: bold;
+}
+
+#facilities b{
+    color: black;
+}
+/* **************************************facilities************************************* */
+
+/* *********************************Footer********************************* */
+#footer{
+    background-image: url(res/Picture1.png); 
+    background-size: cover;
+    height: 500px;
+    color: white;
+    border: none;
+    margin-top: 10px;
+}
+
+#footer_icon{
+    height: 50px;
+    margin-bottom: 3px;
+}
+
+#footer .card{
+    border-radius: 0px;
+    background-color:#0F96C5;
+}
+
+#footer .card-text{
+    font-weight: 700;
+}
+
+#left_card{
+    height: 200px;
+    margin-left: 50px;
+}
+
+#center_card{
+    height: 370px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 0px;
+}
+
+#right_card{
+    height: 300px;
+    margin-right: 50px;
+}
+
+#cost{
+ font-size: 70px;
+}
+
+#right_card button{
+    background: #E4C209;
+    border: solid 4px white;
+    border-radius: 35px;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+}
+
+#footer_list{
+    padding: 0px;
+}
+
+#footer_list .list-group{
+    border-radius: 0px;
+}
+
+#footer .list-group-item{
+    padding-top: 20pxpx;
+    padding-bottom: 20px;
+}
+
+#copy_footer{
+    padding-top: 25px;
+    background-color: #26272B;
+    color: white;
+    height: 80px;
+}
+/* *********************************Footer********************************* */

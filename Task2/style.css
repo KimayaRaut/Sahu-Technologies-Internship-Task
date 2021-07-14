@@ -1,0 +1,587 @@
+body{
+
+}
+/* ************************************************************Nav*********************************************** */
+
+#apply_now{
+	margin-left: 70%;
+	background-color: #FEC20B;
+}
+#apply_now_bar a{
+	color: #FFFFFF;
+}
+
+#top_nav_bar{
+	background-color: #002147;
+}
+
+#apply_now a{
+	color: #FFFFFF;
+}
+
+#Phone_top_nav_bar a{
+	color: #FFFFFF;
+}
+#Phone_top_nav_bar svg{
+	color: #FEC20B;
+}
+
+/* ************************************************************End Nav*********************************************** */
+/* **************************************************Nav Bar****************************************** */
+ .navbar-light .navbar-nav .nav-link{
+	color: #002147;
+	text-transform: uppercase;
+}
+
+#home_nav_bar{
+	padding-left: 600px;
+}
+
+#navbarSupportedContent{
+
+}
+
+#logo-01{
+	top: 15px;
+	left: 37px;
+	/* width:  100px; */
+	height: 60px;
+}
+
+/* **************************************************EndNav Bar****************************************** */
+/* ************************************************Carousels************************************************************ */
+#carouselExampleIndicators{
+	/* height: 300px; */
+	overflow: hidden;
+	background-color: blueviolet;
+}
+
+#carousel_image{
+	height: 500px;
+}
+/* *************************************************End Carousels*********************************************************** */
+/* ******************************************************************************************************** */
+#non_Carousels{
+	height: 200px;
+	/* background-color: aqua; */
+	background-image: url("https://images.unsplash.com/photo-1494322296366-b46227baa318?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80");
+	background-repeat: no-repeat;
+	overflow: hidden;
+	background-size: cover;
+}
+
+#scholarship_facilities{
+	background-color: #002147;
+	opacity: .9;
+	width: 400px;
+	height: 170px;
+	display: inline-block;
+	margin-top: 29px;
+	margin-left: 140px;
+	color: #FFFFFF;
+}
+
+#scholarship_facilities h1{
+	font-size:25px;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+#scholarship_facilities h4{
+	font-size: 15px;
+	width: 300px;
+	margin-left: 20px;
+}
+
+#scholarship_facilities svg{
+	margin-left: 310px;
+	color: #FEC20B;
+
+}
+
+#skilled_lecturers{
+	background-color: #002147;
+	opacity: .9;
+	width: 400px;
+	height: 170px;
+	display: inline-block;
+	color: #FFFFFF;
+}
+
+#skilled_lecturers h1{
+	font-size: 25px;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+#skilled_lecturers h4{
+	font-size: 15px;
+	width: 300px;
+	margin-left: 20px;
+}
+
+#skilled_lecturers svg{
+	margin-left: 310px;
+	color: #FEC20B;
+
+}
+
+#book_library{
+	background-color: #002147;
+	opacity: .9;
+	width: 400px;
+	height: 170px;
+	display: inline-block;
+	color: #FFFFFF;
+}
+
+#book_library h1{
+	font-size: 25px;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+#book_library h4{
+	font-size: 15px;
+	width: 300px;
+	margin-left: 20px;
+}
+
+#book_library svg{
+	margin-left: 310px;
+	color: #FEC20B;
+}
+/* ******************************************************************************************************** */
+
+/* *******************************************************welcome************************************************* */
+#welcome{
+	/* background-color: blue; */
+	width: 100%;
+	height: 600px;
+}
+
+#welcome_text{
+	/* background-color: brown; */
+	width: 900px;
+	height: 600px;
+	display: inline-block;
+	color: #002147;
+}
+
+#welcome_text h1{
+  font-size:  60px;
+  margin-top: 50px;
+  margin-left: 10px;
+
+}
+
+#welcome_text h2{
+	font-size: 30px;
+	margin-top: 30px;
+	margin-left: 10px;
+	width: 700px;
+}
+
+#welcome_text h4{
+	font-size: 20px;
+	margin-top: 30px;
+	margin-bottom: 60px;
+	margin-left: 10px;
+	width: 700px;
+}
+
+#welcome_text button{
+	margin-left: 10px;
+	height: 70px;
+	width: 200px;
+	font-size: 20px;
+	text-transform: uppercase;
+
+}
+
+#welcome_img{
+	/* background-color: chartreuse; */
+	height: 600px;
+	width: 585px;
+	display: inline-block;
+	position: absolute;
+}
+#welcome_img img{
+	width: 100%;
+	overflow: hidden;
+	height: 600px;
+}
+
+/* ********************************************************* end welcome*********************************************** */
+
+/* ********************************************************* featured_cources*********************************************** */
+#featured_cources {
+	background-color:#F5F5F5;
+}
+
+#featured_cources h1{
+	color: #002147;
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-bottom: 50px;
+}
+
+/* *********************************************************  end featured_cources*********************************************** */
+/* *********************************************************  Live Video*********************************************** */
+#live_video_bg_img{
+	background-image: url("https://images.unsplash.com/photo-1622404213892-85ae6dca0a71?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=625&q=80");
+	width: 100%;
+	height: 500px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#live_video{
+	width: 100%;
+	height: 500px;
+	background-color: #002147;
+	opacity: .8;
+	color: #FFFFFF;
+}
+
+#live_video h1{
+	padding-top: 200px;
+	font-size: 60px;
+}
+
+#live_video h2{
+	font-size: 20px;
+	margin: 30px;
+}
+
+#live_video svg{
+	color: #FEC20B;
+}
+/* *********************************************************  end Live Video*********************************************** */
+/* *********************************************************  Instructors*********************************************** */
+#instructors h1{
+	color: #002147;
+	margin: 50px;
+}
+/* *********************************************************  end Instructors*********************************************** */
+/* *********************************************************  post and events*********************************************** */
+#post_events{
+	background-color: #F5F5F5;
+	width: 100%;
+	height: 800px;
+}
+
+#latest_post{
+	/* background-color: blue; */
+	width: 49.5%;
+	/* height: 600px; */
+	display: inline-block;
+}
+
+#latest_post h1{
+	color: #002147;
+	margin: 50px;
+}
+
+#upcoming_events{
+	/* background-color: brown; */
+	width: 49.5%;
+	/* height: 600px; */
+	display: inline-block;
+	position: absolute;
+}
+
+#upcoming_events h1{
+	color: #002147;
+	margin: 50px;
+}
+/* *********************************************************  end post and events*********************************************** */
+
+/* *********************************************************Numbers*********************************************** */
+#numbers{
+	height: 400px;
+	background-image: url("https://images.unsplash.com/photo-1535432715554-75d3f522ab18?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80");
+	background-size: cover;
+	width: 100%;
+	background-repeat: no-repeat;
+}
+
+#numbers_inner{
+	height: 400px;
+	background-color: #002147;
+	opacity: .7;
+}
+
+
+#numbers_inner .card{
+	border: none;
+	background-color: #002147;
+	color: #FFFFFF;
+}
+
+#numbers_inner .card-group{
+	padding-top: 10%;
+}
+
+#numbers_inner .card-group h5{
+	font-size: 18px;
+	opacity: 1;
+	text-transform: uppercase;
+}
+#numbers_inner .card-group h5 span{
+	font-size: 70px;
+	opacity: 1;
+}
+
+#numbers_inner .card-group hr{
+	width: 20%;
+	height: 5px;
+	border-radius: 5px;
+	color: #FEC20B;
+	opacity: 1;
+}
+/* *********************************************************end Numbers************************************************ */
+
+/* *********************************************************what_our_students_say************************************************ */
+
+#what_our_students_say{
+ 	height: 500px;
+}
+
+#what_our_students_say h1{
+	margin-top: 10px;
+	margin-bottom: 30px;
+	color: #002147;
+}
+
+#what_our_students_say .card-body h5{
+	font-size: 30px;
+	color: #002147;
+}
+
+#what_our_students_say .card{
+	padding-top: 60px;
+	border: none;
+}
+#what_our_students_say .card-group p{
+ width: 500px;
+}
+
+#what_our_students_say .card-group img{
+	width: 110px;
+	height: 110px;
+	border-radius: 50%;
+	position: absolute;
+	bottom: 60px;
+	left: 500px;
+}
+
+/* *********************************************************end what_our_students_say************************************************ */
+/* *********************************************************Join Us************************************************ */
+#join_us{
+ 	background-color: #FEC803;
+	width: 100%;
+	height: 400px;
+}
+
+#Join_us_img{
+	/* background-color: tomato; */
+	width: 68%;
+	height: 300px;
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#Join_us_img img{
+	width: 100%;
+	height: 300px;
+}
+
+#Join_us_desc{
+	background-color:#002147;
+	width: 25%;
+	height: 300px;
+	display: inline-block;
+	margin-top: 50px;
+	position: absolute;
+	
+}
+
+#Join_us_desc h1{
+	margin-top: 80px;
+	color: #FFFFFF;
+}
+
+#Join_us_desc button{
+	height: 50px;
+	width: 200px;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+/* *********************************************************end Join us************************************************ */
+
+/* *********************************************************Contact_us_and_information************************************************ */
+
+#contact_us_and_information{
+	/* background-color: aqua; */
+	width: 100%;
+	height: 600px;
+}
+
+#contact_us_and_information .card{
+	margin-top: 15px;
+	border: none;
+}
+
+#contact_us_and_information button{
+	background-color: #002147;
+	text-transform: uppercase;
+	margin-left: 13px;
+}
+
+#contact_us{
+	/* background-color: blue; */
+	width: 68%;
+	height: 500px;
+	display: inline-block;
+	/* margin-left: 35px; */
+}
+
+#contact_us h1{
+	color: #002147;
+	margin-top: 50px;
+}
+
+#contact_us hr{
+	width: 15%;
+	height: 5px;
+	color: #FEC20B;
+	border-radius: 5px;
+	opacity: 1;	
+}
+
+#information{
+	/* background-color: brown; */
+	width: 29%;
+	height: 500px;
+	display: inline-block;
+	position: absolute;
+}
+
+#information h1{
+	color: #002147;
+	margin-top: 50px;
+}
+
+#information h2{
+	color: #002147;
+	border: 1px solid #E8EBEE;
+	margin-top: 50px;
+	font-size: 20px;
+	padding: 15px;
+}
+#information hr{
+	width: 10%;
+	height: 5px;
+	color: #FEC20B;
+	border-radius: 5px;
+	opacity: 1;
+}
+
+#information svg{
+	color: #FEC803;
+	margin-right: 8px;
+}
+/* *********************************************************end Contact_us_and_information************************************************ */
+/* *********************************************************Footer************************************************ */
+#footer{
+	background-color: #002147;
+}
+
+#footer #card_footer{
+	background-color: #002147;
+	border: none;
+	color: #FFFFFF;
+	height: 300px;
+}
+
+#footer #card_footer svg{
+	color: #FEC20B;
+	margin: 8px;
+}
+
+#footer h5{
+	font-size: 30px;
+}
+
+#footer p{
+	font-size: 20px;
+}
+
+#featured_links_footer{
+	background-color: #002147;
+	border: none;
+}
+
+#featured_links_footer svg{
+	color: #FEC20B;
+}
+
+#information_footer{
+	background-color: #002147;
+	border: none;
+	width: 300px;
+}
+
+#information_footer svg{
+	color: #FEC20B;
+	margin: 5px;
+}
+
+#photos_footer {
+	background-color: #002147;
+	/* border: none; */
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+}
+
+#photos_footer img{
+	width: 100px;
+	height: 100px;
+}
+/* *********************************************************end Footer************************************************ */
+/* *********************************************************end Footer_contact_icons************************************************ */
+#footer_contact_icons{
+	background-color: #002147;
+	color: #FFFFFF;
+}
+
+#footer_contact_icons h2{
+	border: 1px solid #F5F5F5;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	display: inline-block;
+	margin: 5px;
+	opacity: 0.7;
+}
+
+#footer_contact_icons svg{
+	width: 30px;
+	height: 30px;
+}
+/* *********************************************************end Footer_contact_icons************************************************ */
+
+
+
+
+
+
+
+
+
+
+
