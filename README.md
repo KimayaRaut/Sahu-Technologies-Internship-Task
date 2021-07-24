@@ -15,7 +15,6 @@
 ## Task3:
 ![Screenshot (1508)](https://user-images.githubusercontent.com/66699500/126851180-cce1b89d-d537-4667-8075-4781388ceaa8.png)
 ![Screenshot (1509)](https://user-images.githubusercontent.com/66699500/126851197-e70df1ff-7d1e-4ded-8bb1-87b48b74f2e2.png)
-![Screenshot (1508)](https://user-images.githubusercontent.com/66699500/126851200-cf965cbc-1741-46f9-9047-a17ed7051977.png)
 ![Screenshot (1510)](https://user-images.githubusercontent.com/66699500/126851201-5d47d394-06a6-4847-8218-32190763c97a.png)
 ![Screenshot (1511)](https://user-images.githubusercontent.com/66699500/126851204-2b170b4f-bb42-4bc1-b8df-703471582060.png)
 ![Screenshot (1512)](https://user-images.githubusercontent.com/66699500/126851206-aa00a442-4d5a-4900-8852-ef2b4015cec9.png)
